@@ -7,7 +7,7 @@ on:
         description: 'The name of the schema(Blank or "standard" for standard)'
         default: ''
       schema_version:
-        description: : 'The schema version to convert'
+        description: 'The schema version to convert'
         required: true
       pr_title:
         description: 'Pull Request Title'
