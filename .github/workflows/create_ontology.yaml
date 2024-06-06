@@ -32,7 +32,7 @@ jobs:
         with:
           fetch-depth: 0
           path: 'hed-schemas'
-          repository: 'hed-standard/hed-schemas'
+          repository: 'ianca/hed-schemas'
 
       - name: Delete old provisional branch if needed
         run: |
